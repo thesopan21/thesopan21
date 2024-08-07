@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thesopan21
-- 👀 I’m interested in React Native
+- 👀 I’m interested in React & React Native
 - 🌱 I’m currently working on React Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sam21sop@gmail.com
