@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thesopan21
+- 👋 Hi, I’m Sopan Bhere
 - 👀 I’m interested in React & React Native
 - 🌱 I’m currently working on React Native
 - 💞️ I’m looking to collaborate on ...
