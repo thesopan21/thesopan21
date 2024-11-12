@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sam21sop@gmail.com
 
-<h1 align="left" style="font-size:36px;">Technologies & Expertise</h1>
+<h1 align="center" style="font-size:36px;">Technologies & Expertise</h1>
     <span>&nbsp;&nbsp;</span>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
