@@ -65,5 +65,6 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a> 
+<h1 align="center" style="font-size:36px;">Work Experience</h1>
 
 
