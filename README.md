@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Sopan Bhere</h1>
 
 - 🌱 I’m currently working on React & React Native
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Mobile App Development
 - 📫 How to reach me sam21sop@gmail.com
 
 <h1 align="center" style="font-size:36px;">Technologies & Expertise</h1>
