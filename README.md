@@ -1,8 +1,10 @@
 <h1 align="center">Hello 👋, I'm Sopan Bhere</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thesopan21&label=Profile%20Views&color=ff3300&style=flat" alt="sam21sop" /> </p>
 
 - 🌱 I’m currently working on React & React Native
 - 💞️ I’m looking to collaborate on Mobile App Development
 - 📫 How to reach me sam21sop@gmail.com
+  
 
 <h1 align="center" style="font-size:36px;">Technologies & Expertise</h1>
     <span>&nbsp;&nbsp;</span>
