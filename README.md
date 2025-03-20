@@ -9,7 +9,6 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=thesopan21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 ![](https://nirzak-streak-stats.vercel.app/?user=thesopan21&theme=dark&hide_border=false)
 
 
