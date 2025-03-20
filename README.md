@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=thesopan21&theme=dark&hide_border=false" height="180" alt="streak graph"  />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=thesopan21&theme=dark&hide_border=false" height="160" alt="streak graph"  />
 </div>
 
 <h2 align="left">💻 Technologies & Expertise</h2>
