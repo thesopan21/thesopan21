@@ -2,11 +2,11 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&color=%23FFA500&vCenter=true&padding=5&lines=A+Passionate+Software+Developer;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 -->
-<h3> Total Profile Visitors: </h3>
+<h3> Profile Visitors (All Time): </h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/thesopan21/count.svg)
 
-<h2 align="left"> 🔥My Stats </h2>
+<h2 align="left"> 🔥 My Stats </h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thesopan21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thesopan21&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dark&hide_border=false" height="160" alt="languages graph"  />
@@ -16,11 +16,12 @@
       <img src="https://nirzak-streak-stats.vercel.app/?user=thesopan21&theme=dark&hide_border=false" height="160" alt="streak graph"  />
 </div>
 
-## 🏆 GitHub Trophies
+<h2 align="left">🏆 GitHub Trophies</h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=thesopan21&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
 
-<h2 align="left">💻 Technologies & Expertise</h2>
+<h2 align="left">🛠️ Skills & Expertise</h2>
     <span>&nbsp;&nbsp;</span>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -80,7 +81,7 @@
 
 
 
-<h1 align="left">Work Experience</h1>
+<h2 align="left"> 💼 Work Experience</h2>
 
 | **Project Name**                     | **Responsibilities**                                                                                                                                                                                                                      |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
