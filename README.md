@@ -1,8 +1,8 @@
 <h1 align="center">Hello 👋, I'm Sopan Bhere</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&color=%23FFA500&vCenter=true&padding=5&lines=A+Passionate+Software+Developer;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
-
-<h3>Profile Views</h3>
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&color=%23FFA500&vCenter=true&padding=5&lines=A+Passionate+Software+Developer;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+-->
+<h3> Total Profile Visitors: </h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/thesopan21/count.svg)
 
@@ -15,6 +15,10 @@
 <div align="center">
       <img src="https://nirzak-streak-stats.vercel.app/?user=thesopan21&theme=dark&hide_border=false" height="160" alt="streak graph"  />
 </div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=thesopan21&theme=dark&no-frame=true&no-bg=false&margin-w=4)
+
 
 <h2 align="left">💻 Technologies & Expertise</h2>
     <span>&nbsp;&nbsp;</span>
@@ -76,9 +80,11 @@
 
 
 
-<h1 align="center" style="font-size:36px;">Work Experience</h1>
+<h1 align="left">Work Experience</h1>
 
 | **Project Name**                     | **Responsibilities**                                                                                                                                                                                                                      |
 |---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
 | **Social Shopping** [Android](https://play.google.com/store/search?q=snoodify&c=apps&hl=en_IN) \| [IOS](https://apps.apple.com/in/app/flickd-flick-shop-repeat/id6740070775) | - Built and maintained a mobile application, resulting in client satisfaction by addressing user feedback and enhancing app performance.<br>- Debugged and resolved complex state management issues, improving overall app stability and reducing crash rates.<br>- Implemented native module integration for third-party services like payment gateways.<br>- Integrated native APIs to create deep app functionalities, improving performance and increasing API usage.<br>- Diagnosed and resolved critical bugs.<br>- Optimized mobile application performance, increasing app speed through code refactoring and efficient algorithms. |
 | **Dashboards** (Web Application)     | - Developed responsive UIs using Tailwind CSS, improving cross-platform compatibility and reducing load times.<br>- Collaborated closely with cross-functional teams to ship new app features, increasing user engagement and boosting customer satisfaction.<br>- Debugged and resolved complex state management issues, improving overall app stability and reducing crash rates.<br>- Collaborated with senior developers to design the data presentation layer, improving overall app performance. |
+
+---
