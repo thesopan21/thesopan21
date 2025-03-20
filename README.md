@@ -1,10 +1,18 @@
 <h1 align="center">Hello 👋, I'm Sopan Bhere</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thesopan21&label=Profile%20Views&color=ff3300&style=flat" alt="sam21sop" /> </p>
 
-- 🌱 I’m currently working on React & React Native
-- 💞️ I’m looking to collaborate on Mobile App Development
-- 📫 How to reach me sam21sop@gmail.com
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&color=%23FFA500&vCenter=true&padding=5&lines=A+Passionate+Software+Developer;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+
+<h3>Profile Views</h3>
+
+![Visitor Count](https://profile-counter.glitch.me/thesopan21/count.svg)
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=thesopan21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+![](https://nirzak-streak-stats.vercel.app/?user=thesopan21&theme=dark&hide_border=false)
+
+
 
 <h1 align="center" style="font-size:36px;">Technologies & Expertise</h1>
     <span>&nbsp;&nbsp;</span>
