@@ -92,71 +92,68 @@
   </tr>
 
   <tr>
-    <td><strong>Social Shopping App</strong><br />
-      <a href="https://play.google.com/store/search?q=snoodify&c=apps&hl=en_IN">Android</a> |
-      <a href="https://apps.apple.com/in/app/flickd-flick-shop-repeat/id6740070775">iOS</a>
+    <td>
+      <a href="https://github.com/thesopan21/social-ecommerce-app" target="_blank"><strong>Social Shopping App</strong></a><br />
     </td>
     <td>
       React Native, TypeScript, Redux Toolkit, RTK Query, React Navigation, Context API, FCM, Razorpay, ffmpeg-kit, Firebase
     </td>
     <td>
-      <ul>
-        <li>Developed a scalable mobile e-commerce app with fast load times and smooth UI transitions using React Native & TypeScript.</li>
-        <li>Implemented nested navigation flows using React Navigation with deep linking and tab/drawer/stack navigators.</li>
-        <li>Used Context API for managing authentication flow and theme switching (dark/light) across the app.</li>
-        <li>Integrated Razorpay for secure in-app transactions and optimized the checkout experience.</li>
-        <li>Built in-app video feed and upload functionality using ffmpeg-kit and react-native-video, with adaptive playback.</li>
-        <li>Implemented real-time push notifications via Firebase Cloud Messaging (FCM) for user engagement.</li>
-        <li>Mentored a frontend intern on modular component architecture, API integration, and best coding practices.</li>
-      </ul>
+     Developed a scalable mobile e-commerce app with fast load times and smooth UI transitions using React Native & TypeScript.<br />
+      Implemented nested navigation flows using React Navigation with deep linking and tab/drawer/stack navigators.<br />
+      Used Context API for managing authentication flow and theme switching (dark/light) across the app.<br />
+      Integrated Razorpay for secure in-app transactions and optimized the checkout experience.<br />
+      Built in-app video feed and upload functionality using ffmpeg-kit and react-native-video, with adaptive playback.<br />
+      Implemented real-time push notifications via Firebase Cloud Messaging (FCM) for user engagement.<br />
+      Mentored a frontend intern on modular component architecture, API integration, and best coding practices.
     </td>
   </tr>
 
   <tr>
-    <td><strong>Internal Dashboards (Web App)</strong></td>
+    <td>
+      <a href="https://github.com/thesopan21/admin-dashboards" target="_blank"><strong>Admin Dashboards (Web App)</strong></a>
+    </td>
     <td>
       React.js, Tailwind CSS, Context API
     </td>
     <td>
-      <ul>
-        <li>Built responsive dashboard components using React.js and Tailwind CSS, improving UI consistency and load performance.</li>
-        <li>Managed authentication and theme preferences globally using React Context API.</li>
-        <li>Collaborated with backend and product teams to design scalable frontend architecture for data visualizations.</li>
-        <li>Created reusable, accessible UI components and improved performance with memoization techniques.</li>
-        <li>Streamlined data binding and reduced re-render overhead in dynamic table and chart components.</li>
-      </ul>
+      Built responsive dashboard components using React.js and Tailwind CSS, improving UI consistency and load performance.<br />
+      Managed authentication and theme preferences globally using React Context API.<br />
+      Collaborated with backend and product teams to design scalable frontend architecture for data visualizations.<br />
+      Created reusable, accessible UI components and improved performance with memoization techniques.<br />
+      Streamlined data binding and reduced re-render overhead in dynamic table and chart components.
     </td>
   </tr>
 
   <tr>
-    <td><strong>Short Video App</strong></td>
+    <td>
+      <a href="https://github.com/thesopan21/short-video-app" target="_blank"><strong>Short Video App</strong></a>
+    </td>
     <td>
       React Native, Redux Toolkit, Firebase, ffmpeg-kit, React Navigation
     </td>
     <td>
-      <ul>
-        <li>Developed a short video platform with feed, upload, and profile screens mimicking TikTok-style UI.</li>
-        <li>Used ffmpeg-kit to compress and upload videos, and react-native-video for adaptive streaming playback.</li>
-        <li>Implemented navigation flows with stack navigators and custom screen transitions using React Navigation.</li>
-        <li>Integrated Firebase Auth and Firestore to manage user identity and video metadata.</li>
-        <li>Optimized performance using lazy loading and memoization to ensure smooth scroll and transitions.</li>
-      </ul>
+      Developed a short video platform with feed, upload, and profile screens mimicking TikTok-style UI.<br />
+      Used ffmpeg-kit to compress and upload videos, and react-native-video for adaptive streaming playback.<br />
+      Implemented navigation flows with stack navigators and custom screen transitions using React Navigation.<br />
+      Integrated Firebase Auth and Firestore to manage user identity and video metadata.<br />
+      Optimized performance using lazy loading and memoization to ensure smooth scroll and transitions.
     </td>
   </tr>
 
   <tr>
-    <td><strong>Social Chat Application</strong></td>
+    <td>
+      <a href="https://github.com/thesopan21/social-chat-app" target="_blank"><strong>Social Chat Application</strong></a>
+    </td>
     <td>
       React Native, WebSocket (Frontend), Context API
     </td>
     <td>
-      <ul>
-        <li>Built a real-time messaging app with individual and group chat support using frontend-only WebSocket implementation.</li>
-        <li>Created All-Users screen with active presence indicator and individual chat screen with message threading.</li>
-        <li>Used Context API to manage authentication state and chat session persistence.</li>
-        <li>Designed responsive chat bubbles, emoji support, timestamping, and read receipts.</li>
-        <li>Optimized rendering performance and reduced message latency through efficient event handling.</li>
-      </ul>
+     Built a real-time messaging app with individual and group chat support using frontend-only WebSocket implementation.<br />
+      Created All-Users screen with active presence indicator and individual chat screen with message threading.<br />
+      Used Context API to manage authentication state and chat session persistence.<br />
+      Designed responsive chat bubbles, emoji support, timestamping, and read receipts.<br />
+      Optimized rendering performance and reduced message latency through efficient event handling.
     </td>
   </tr>
 </table>
