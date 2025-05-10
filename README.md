@@ -86,33 +86,80 @@
 
 <table>
   <tr>
+    <th align="left">Project Name</th>
+    <th align="left">Utilized Skills</th>
+    <th align="left">Project Description</th>
+  </tr>
+
+  <tr>
     <td><strong>Social Shopping App</strong><br />
       <a href="https://play.google.com/store/search?q=snoodify&c=apps&hl=en_IN">Android</a> |
       <a href="https://apps.apple.com/in/app/flickd-flick-shop-repeat/id6740070775">iOS</a>
     </td>
     <td>
+      React Native, TypeScript, Redux Toolkit, RTK Query, React Navigation, Context API, FCM, Razorpay, ffmpeg-kit, Firebase
+    </td>
+    <td>
       <ul>
-        <li>Developed a cross-platform mobile app using <strong>React Native</strong> and <strong>TypeScript</strong> with modern UI and fast load times.</li>
-        <li>Implemented <strong>React Navigation</strong> for nested stack, drawer, and tab navigators with deep linking support.</li>
-        <li>Used <strong>Context API</strong> for handling global <strong>authentication flows and theme toggling</strong> (light/dark).</li>
-        <li>Managed state and APIs using <strong>Redux Toolkit</strong> and <strong>RTK Query</strong>, reducing crashes and boosting responsiveness.</li>
-        <li>Built <strong>in-app video feed & upload features</strong> using <code>react-native-video</code> and <code>ffmpeg-kit</code> with adaptive streaming.</li>
-        <li>Integrated <strong>Firebase Cloud Messaging</strong> for push notifications on Android/iOS.</li>
-        <li>Implemented secure checkout with <strong>Razorpay integration</strong>.</li>
-        <li>Mentored a frontend intern on component structure, state management, and performance optimization.</li>
+        <li>Developed a scalable mobile e-commerce app with fast load times and smooth UI transitions using React Native & TypeScript.</li>
+        <li>Implemented nested navigation flows using React Navigation with deep linking and tab/drawer/stack navigators.</li>
+        <li>Used Context API for managing authentication flow and theme switching (dark/light) across the app.</li>
+        <li>Integrated Razorpay for secure in-app transactions and optimized the checkout experience.</li>
+        <li>Built in-app video feed and upload functionality using ffmpeg-kit and react-native-video, with adaptive playback.</li>
+        <li>Implemented real-time push notifications via Firebase Cloud Messaging (FCM) for user engagement.</li>
+        <li>Mentored a frontend intern on modular component architecture, API integration, and best coding practices.</li>
       </ul>
     </td>
   </tr>
+
   <tr>
     <td><strong>Internal Dashboards (Web App)</strong></td>
     <td>
+      React.js, Tailwind CSS, Context API
+    </td>
+    <td>
       <ul>
-        <li>Developed fast, responsive UI with <strong>React.js</strong> and <strong>Tailwind CSS</strong>.</li>
-        <li>Used <strong>Context API</strong> for global auth management and user preferences (e.g., theme persistence).</li>
-        <li>Collaborated with cross-functional teams to ship new visualizations and improve user workflows.</li>
-        <li>Refactored component structure for improved maintainability and performance.</li>
+        <li>Built responsive dashboard components using React.js and Tailwind CSS, improving UI consistency and load performance.</li>
+        <li>Managed authentication and theme preferences globally using React Context API.</li>
+        <li>Collaborated with backend and product teams to design scalable frontend architecture for data visualizations.</li>
+        <li>Created reusable, accessible UI components and improved performance with memoization techniques.</li>
+        <li>Streamlined data binding and reduced re-render overhead in dynamic table and chart components.</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Short Video App</strong></td>
+    <td>
+      React Native, Redux Toolkit, Firebase, ffmpeg-kit, React Navigation
+    </td>
+    <td>
+      <ul>
+        <li>Developed a short video platform with feed, upload, and profile screens mimicking TikTok-style UI.</li>
+        <li>Used ffmpeg-kit to compress and upload videos, and react-native-video for adaptive streaming playback.</li>
+        <li>Implemented navigation flows with stack navigators and custom screen transitions using React Navigation.</li>
+        <li>Integrated Firebase Auth and Firestore to manage user identity and video metadata.</li>
+        <li>Optimized performance using lazy loading and memoization to ensure smooth scroll and transitions.</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Social Chat Application</strong></td>
+    <td>
+      React Native, WebSocket (Frontend), Context API
+    </td>
+    <td>
+      <ul>
+        <li>Built a real-time messaging app with individual and group chat support using frontend-only WebSocket implementation.</li>
+        <li>Created All-Users screen with active presence indicator and individual chat screen with message threading.</li>
+        <li>Used Context API to manage authentication state and chat session persistence.</li>
+        <li>Designed responsive chat bubbles, emoji support, timestamping, and read receipts.</li>
+        <li>Optimized rendering performance and reduced message latency through efficient event handling.</li>
       </ul>
     </td>
   </tr>
 </table>
+
+
 
