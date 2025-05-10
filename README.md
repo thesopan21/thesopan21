@@ -96,7 +96,15 @@
       <a href="https://github.com/thesopan21/social-ecommerce-app" target="_blank"><strong>Social Shopping App</strong></a><br />
     </td>
     <td>
-      React Native, TypeScript, Redux Toolkit, RTK Query, React Navigation, Context API, FCM, Razorpay, ffmpeg-kit, Firebase
+      React Native, <br />
+      TypeScript, <br />
+      Redux Toolkit, <br />
+      RTK Query, <br />
+      React Navigation, <br />
+      Context API, <br />
+      FCM, <br />
+      Razorpay, <br />
+      Firebase
     </td>
     <td>
      Developed a scalable mobile e-commerce app with fast load times and smooth UI transitions using React Native & TypeScript.<br />
@@ -114,7 +122,9 @@
       <a href="https://github.com/thesopan21/admin-dashboards" target="_blank"><strong>Admin Dashboards (Web App)</strong></a>
     </td>
     <td>
-      React.js, Tailwind CSS, Context API
+      React.js, <br />
+      Tailwind CSS, <br />
+      Context API
     </td>
     <td>
       Built responsive dashboard components using React.js and Tailwind CSS, improving UI consistency and load performance.<br />
@@ -130,7 +140,10 @@
       <a href="https://github.com/thesopan21/short-video-app" target="_blank"><strong>Short Video App</strong></a>
     </td>
     <td>
-      React Native, Redux Toolkit, Firebase, ffmpeg-kit, React Navigation
+      React Native,<br />
+      Redux Toolkit,<br />
+      Firebase, <br />
+      React Navigation
     </td>
     <td>
       Developed a short video platform with feed, upload, and profile screens mimicking TikTok-style UI.<br />
@@ -146,7 +159,9 @@
       <a href="https://github.com/thesopan21/social-chat-app" target="_blank"><strong>Social Chat Application</strong></a>
     </td>
     <td>
-      React Native, WebSocket (Frontend), Context API
+      React Native, <br />
+      WebSocket (Frontend),<br />
+      Context API
     </td>
     <td>
      Built a real-time messaging app with individual and group chat support using frontend-only WebSocket implementation.<br />
