@@ -81,11 +81,38 @@
 
 
 
-<h2 align="left"> 💼 Work Experience</h2>
 
-| **Project Name**                     | **Responsibilities**                                                                                                                                                                                                                      |
-|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-| **Social Shopping** [Android](https://play.google.com/store/search?q=snoodify&c=apps&hl=en_IN) \| [IOS](https://apps.apple.com/in/app/flickd-flick-shop-repeat/id6740070775) | - Built and maintained a mobile application, resulting in client satisfaction by addressing user feedback and enhancing app performance.<br>- Debugged and resolved complex state management issues, improving overall app stability and reducing crash rates.<br>- Implemented native module integration for third-party services like payment gateways.<br>- Integrated native APIs to create deep app functionalities, improving performance and increasing API usage.<br>- Diagnosed and resolved critical bugs.<br>- Optimized mobile application performance, increasing app speed through code refactoring and efficient algorithms. |
-| **Dashboards** (Web Application)     | - Developed responsive UIs using Tailwind CSS, improving cross-platform compatibility and reducing load times.<br>- Collaborated closely with cross-functional teams to ship new app features, increasing user engagement and boosting customer satisfaction.<br>- Debugged and resolved complex state management issues, improving overall app stability and reducing crash rates.<br>- Collaborated with senior developers to design the data presentation layer, improving overall app performance. |
+<h2 align="left">💼 Work Experience</h2>
 
----
+<table>
+  <tr>
+    <td><strong>Social Shopping App</strong><br />
+      <a href="https://play.google.com/store/search?q=snoodify&c=apps&hl=en_IN">Android</a> |
+      <a href="https://apps.apple.com/in/app/flickd-flick-shop-repeat/id6740070775">iOS</a>
+    </td>
+    <td>
+      <ul>
+        <li>Developed a cross-platform mobile app using <strong>React Native</strong> and <strong>TypeScript</strong> with modern UI and fast load times.</li>
+        <li>Implemented <strong>React Navigation</strong> for nested stack, drawer, and tab navigators with deep linking support.</li>
+        <li>Used <strong>Context API</strong> for handling global <strong>authentication flows and theme toggling</strong> (light/dark).</li>
+        <li>Managed state and APIs using <strong>Redux Toolkit</strong> and <strong>RTK Query</strong>, reducing crashes and boosting responsiveness.</li>
+        <li>Built <strong>in-app video feed & upload features</strong> using <code>react-native-video</code> and <code>ffmpeg-kit</code> with adaptive streaming.</li>
+        <li>Integrated <strong>Firebase Cloud Messaging</strong> for push notifications on Android/iOS.</li>
+        <li>Implemented secure checkout with <strong>Razorpay integration</strong>.</li>
+        <li>Mentored a frontend intern on component structure, state management, and performance optimization.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Internal Dashboards (Web App)</strong></td>
+    <td>
+      <ul>
+        <li>Developed fast, responsive UI with <strong>React.js</strong> and <strong>Tailwind CSS</strong>.</li>
+        <li>Used <strong>Context API</strong> for global auth management and user preferences (e.g., theme persistence).</li>
+        <li>Collaborated with cross-functional teams to ship new visualizations and improve user workflows.</li>
+        <li>Refactored component structure for improved maintainability and performance.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
