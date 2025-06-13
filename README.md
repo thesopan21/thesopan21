@@ -31,10 +31,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a>
     <span>&nbsp;&nbsp;</span>
-    <a href="https://www.python.org"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
-    </a> 
-    <span>&nbsp;&nbsp;</span>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
       <img src="https://www.cdnlogo.com/logos/r/85/react.svg" alt="react" width="40" height="40"/> 
     </a> 
@@ -51,16 +47,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
     </a> 
     <span>&nbsp;&nbsp;</span>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-    </a> 
-    <span>&nbsp;&nbsp;</span>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-    </a> 
-    <span>&nbsp;&nbsp;</span>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
     </a> 
     <span>&nbsp;&nbsp;</span>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
