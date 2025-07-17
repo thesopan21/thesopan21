@@ -1,10 +1,10 @@
 <h1 align="center">Hello 👋, I'm Sopan Bhere</h1>
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&color=%23FFA500&vCenter=true&padding=5&lines=A+Passionate+Software+Developer;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
--->
 <h3> Profile Visitors (All Time): </h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/thesopan21/count.svg)
+-->
 
 <h2 align="left"> 🔥 My Stats </h2>
 <div align="center">
@@ -20,7 +20,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=thesopan21&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
-
+<!--
 <h2 align="left">🛠️ Skills & Expertise</h2>
     <span>&nbsp;&nbsp;</span>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
@@ -161,5 +161,4 @@
   </tr>
 </table>
 
-
-
+-->
