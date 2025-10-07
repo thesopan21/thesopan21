@@ -6,7 +6,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/thesopan21/count.svg)
 -->
 
-<h2 align="left"> 🔥 My Stats </h2>
+<!-- <h2 align="left"> 🔥 My Stats </h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=thesopan21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&hide_border=false" height="160" alt="stats graph"  />
       <img src="https://nirzak-streak-stats.vercel.app/?user=thesopan21&theme=dark&hide_border=false" height="160" alt="streak graph"  />
@@ -14,7 +14,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thesopan21&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dark&hide_border=false" height="160" alt="languages graph"  />
-</div>
+</div> -->
 
 <h2 align="left">🏆 GitHub Trophies</h2>
 
