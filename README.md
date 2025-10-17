@@ -1,5 +1,7 @@
 <h1 align="center">Hello 👋, I'm Sopan Bhere</h1>
 
+[![Sponsor thesopan21 on GitHub](https://img.shields.io/github/sponsors/thesopan21?label=Sponsor%20Me&style=flat&logo=github&color=red)](https://github.com/sponsors/thesopan21)
+
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&color=%23FFA500&vCenter=true&padding=5&lines=A+Passionate+Software+Developer;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 <h3> Profile Visitors (All Time): </h3>
 
